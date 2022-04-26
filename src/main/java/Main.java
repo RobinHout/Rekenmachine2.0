@@ -1,7 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        JavaFXApp.main (args);
-        //niks
-        // hoi123
+        JavaFXApp.main(args);
     }
 }
